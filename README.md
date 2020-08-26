@@ -20,33 +20,33 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img align="left" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/java.svg" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/python.svg" />
-<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/ruby.svg" />
-<img align="left" alt="ROR" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/rubyonrails.svg" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/php.svg" />
-<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/laravel.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img align="left" alt="JSON" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/json.svg" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nativescript.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
-<img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/visualstudio.svg" />
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/amazonaws.svg" />
-<img align="left" alt="Magento" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/magento.svg" />
-<img align="left" alt="Shopify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/shopify.svg" />
-<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />
+<img align="left" alt="Skill" title="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+<img align="left" alt="Skill" title="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" alt="Skill" title="CSharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
+<img align="left" alt="Skill" title="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/java.svg" />
+<img align="left" alt="Skill" title="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/python.svg" />
+<img align="left" alt="Skill" title="Ruby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/ruby.svg" />
+<img align="left" alt="Skill" title="ROR" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/rubyonrails.svg" />
+<img align="left" alt="Skill" title="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/php.svg" />
+<img align="left" alt="Skill" title="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/laravel.svg" />
+<img align="left" alt="Skill" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="Skill" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" alt="Skill" title="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+<img align="left" alt="Skill" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="Skill" title="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="Skill" title="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
+<img align="left" alt="Skill" title="JSON" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/json.svg" />
+<img align="left" alt="Skill" title="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
+<img align="left" alt="Skill" title="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nativescript.svg" />
+<img align="left" alt="Skill" title="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
+<img align="left" alt="Skill" title="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img align="left" alt="Skill" title="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
+<img align="left" alt="Skill" title="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+<img align="left" alt="Skill" title="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" alt="Skill" title="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="Skill" title="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+<img align="left" alt="Skill" title="VSCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/visualstudio.svg" />
+<img align="left" alt="Skill" title="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/amazonaws.svg" />
+<img align="left" alt="Skill" title="Magento" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/magento.svg" />
+<img align="left" alt="Skill" title="Shopify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/shopify.svg" />
+<img align="left" alt="Skill" title="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />
