@@ -32,9 +32,11 @@
 <img align="left" alt="Skill" title="JSON" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/json.svg" />
 <img align="left" alt="Skill" title="XAML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/xaml.svg" />
 <img align="left" alt="Skill" title="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
+<img align="left" alt="Skill" title="REST API" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fastapi.svg" />
 <img align="left" alt="Skill" title="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" alt="Skill" title="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
 <img align="left" alt="Skill" title="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img align="left" alt="Skill" title="SQLite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" />
 <img align="left" alt="Skill" title="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
 <img align="left" alt="Skill" title="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 <img align="left" alt="Skill" title="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
