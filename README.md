@@ -10,8 +10,6 @@
 - 🥅 Future Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and knowing about stuff
 
-<br/>
-
 ### Languages and Tools:
 <img align="left" alt="Skill" title="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 <img align="left" alt="Skill" title="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
@@ -42,11 +40,12 @@
 <img align="left" alt="Skill" title="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 <img align="left" alt="Skill" title="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <img align="left" alt="Skill" title="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
-<img align="left" alt="Skill" title="VSCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/visualstudio.svg" />
-<img align="left" alt="Skill" title="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/amazonaws.svg" />
 <img align="left" alt="Skill" title="Magento" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/magento.svg" />
 <img align="left" alt="Skill" title="Shopify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/shopify.svg" />
+<img align="left" alt="Skill" title="VSCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/visualstudio.svg" />
+<img align="left" alt="Skill" title="cPanel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/cpanel.svg" />
 <img align="left" alt="Skill" title="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />
+<img align="left" alt="Skill" title="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/amazonaws.svg" />
 
 <br/><br/>
 
