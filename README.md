@@ -30,6 +30,7 @@
 <img align="left" alt="Skill" title="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
 <img align="left" alt="Skill" title="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" alt="Skill" title="JSON" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/json.svg" />
+<img align="left" alt="Skill" title="XAML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/xaml.svg" />
 <img align="left" alt="Skill" title="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
 <img align="left" alt="Skill" title="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" alt="Skill" title="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
@@ -45,7 +46,7 @@
 <img align="left" alt="Skill" title="Shopify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/shopify.svg" />
 <img align="left" alt="Skill" title="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />
 
-<br/>
+<br/><br/>
 
 ### Connect with me:
 [<img align="left" alt="Zoeb Chhatriwala | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chhatriwala.com/)
@@ -53,5 +54,3 @@
 [<img align="left" alt="Zoeb Chhatriwala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zoebchhatriwala/)
 [<img align="left" alt="Zoeb Chhatriwala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zoebchhatriwala/)
 [<img align="left" alt="Zoeb Chhatriwala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/zoebchhatriwala/)
-
-<br />
