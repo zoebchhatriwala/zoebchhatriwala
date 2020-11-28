@@ -10,14 +10,7 @@
 - 🥅 Future Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and knowing about stuff
 
-### Connect with me:
-[<img align="left" alt="Zoeb Chhatriwala | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chhatriwala.com/)
-[<img align="left" alt="Zoeb Chhatriwala | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](http://facebook.com/zoebchhatriwala/)
-[<img align="left" alt="Zoeb Chhatriwala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zoebchhatriwala/)
-[<img align="left" alt="Zoeb Chhatriwala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zoebchhatriwala/)
-[<img align="left" alt="Zoeb Chhatriwala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/zoebchhatriwala/)
-
-<br />
+<br/>
 
 ### Languages and Tools:
 <img align="left" alt="Skill" title="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
@@ -35,9 +28,10 @@
 <img align="left" alt="Skill" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="Skill" title="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 <img align="left" alt="Skill" title="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
+<img align="left" alt="Skill" title="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" alt="Skill" title="JSON" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/json.svg" />
 <img align="left" alt="Skill" title="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
-<img align="left" alt="Skill" title="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nativescript.svg" />
+<img align="left" alt="Skill" title="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" alt="Skill" title="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
 <img align="left" alt="Skill" title="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" alt="Skill" title="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
@@ -50,3 +44,14 @@
 <img align="left" alt="Skill" title="Magento" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/magento.svg" />
 <img align="left" alt="Skill" title="Shopify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/shopify.svg" />
 <img align="left" alt="Skill" title="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />
+
+<br/>
+
+### Connect with me:
+[<img align="left" alt="Zoeb Chhatriwala | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chhatriwala.com/)
+[<img align="left" alt="Zoeb Chhatriwala | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](http://facebook.com/zoebchhatriwala/)
+[<img align="left" alt="Zoeb Chhatriwala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zoebchhatriwala/)
+[<img align="left" alt="Zoeb Chhatriwala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zoebchhatriwala/)
+[<img align="left" alt="Zoeb Chhatriwala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/zoebchhatriwala/)
+
+<br />
