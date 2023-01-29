@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=chhatriwala.com&style=for-the-badge&url=https%3A%2F%2Fwww.chhatriwala.com)](https://www.chhatriwala.com)
 <!--- ![Twitter Follow](https://img.shields.io/twitter/follow/zoebchhatriwala?color=1DA1F2&logo=twitter&style=for-the-badge) -->
 
-## I'm a Full Stack (Developer | Engineer) | Computer Science Engineer (B.E)
+## I'm a Full Stack Developer & Engineer | Computer Science Engineer (B.E)
 
 - 🔭 I’m currently working on a building cool apps for Shopify and much more...
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything, learning never stops :`)
 - 🥅 Future Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and knowing about stuff
 
