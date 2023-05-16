@@ -7,8 +7,8 @@
 
 - 🔭 Juggling front-end, back-end and building systems like a true full stack wizard.
 - 🌱 Navigating the ever-changing tech landscape with adaptability and curiosity as my compass.
-- 🥅 Future Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing video games and discussing about technology, science and philosophy
+- 🥅 Future Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love playing video games and discussing about technology, science and philosophy.
 
 ### Languages and Tools:
 <img align="left" alt="Skill" title="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
