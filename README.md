@@ -5,12 +5,12 @@
 
 ### I'm a Full Stack Engineer with Bachelor's in Computer Science & Engineering (C.S.E)
 
-- 🤹‍♂️ Juggling front-end, back-end, and building systems like a full-stack wizard.
-- 🧭 Navigating the ever-changing tech landscape with adaptability and curiosity as my compass.
-- 🥅 Future Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love playing video games and discussing technology, science, and philosophy.
+- 🤹‍♂️ Juggling front-end, back-end, and building systems like a full-stack wizard
+- 🧭 Navigating the ever-changing tech landscape with adaptability and curiosity as my compass
+- 🥅 Future Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love playing video games and discussing technology, science, and philosophy
   
-### Skills:
+### Knacks:
 
 <img align="left" alt="Skill" title="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 <img align="left" alt="Skill" title="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
