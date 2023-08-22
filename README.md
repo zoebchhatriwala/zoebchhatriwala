@@ -5,10 +5,10 @@
 
 ## I'm a Full Stack Developer & Engineer | Computer Science Engineer (B.E)
 
-- 🔭 Juggling front-end, back-end and building systems like a true full stack wizard.
-- 🌱 Navigating the ever-changing tech landscape with adaptability and curiosity as my compass.
+- 🤹‍♂️ Juggling front-end, back-end, and building systems like a full-stack wizard.
+- 🧭 Navigating the ever-changing tech landscape with adaptability and curiosity as my compass.
 - 🥅 Future Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love playing video games and discussing about technology, science and philosophy.
+- ⚡ Fun fact: I love playing video games and discussing technology, science, and philosophy.
 
 ### Languages and Tools:
 <img align="left" alt="Skill" title="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
@@ -46,6 +46,9 @@
 <img align="left" alt="Skill" title="cPanel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/cpanel.svg" />
 <img align="left" alt="Skill" title="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />
 <img align="left" alt="Skill" title="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/amazonaws.svg" />
+<img align="left" alt="Skill" title="NestJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/nestjs.svg" />
+<img align="left" alt="Skill" title="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/next-dot-js.svg" />
+<img align="left" alt="Skill" title="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/typescript.svg" />
 
 <br/><br/>
 
