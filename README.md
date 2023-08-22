@@ -1,16 +1,16 @@
-### Hi there, I'm Zoeb Chhatriwala 👋
+## Hi there, I'm Zoeb Chhatriwala 👋
 
 [![Website](https://img.shields.io/website?label=chhatriwala.com&style=for-the-badge&url=https%3A%2F%2Fwww.chhatriwala.com)](https://www.chhatriwala.com)
 <!--- ![Twitter Follow](https://img.shields.io/twitter/follow/zoebchhatriwala?color=1DA1F2&logo=twitter&style=for-the-badge) -->
 
-## I'm a Full Stack Developer & Engineer | Computer Science Engineer (B.E)
+### I'm a Full Stack Engineer with Bachelor's in Computer Science & Engineering (C.S.E)
 
 - 🤹‍♂️ Juggling front-end, back-end, and building systems like a full-stack wizard.
 - 🧭 Navigating the ever-changing tech landscape with adaptability and curiosity as my compass.
 - 🥅 Future Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love playing video games and discussing technology, science, and philosophy.
 
-### Languages and Tools:
+### Skills:
 <img align="left" alt="Skill" title="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 <img align="left" alt="Skill" title="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 <img align="left" alt="Skill" title="CSharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
@@ -43,6 +43,7 @@
 <img align="left" alt="Skill" title="Magento" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/magento.svg" />
 <img align="left" alt="Skill" title="Shopify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/shopify.svg" />
 <img align="left" alt="Skill" title="VSCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/visualstudio.svg" />
+<img align="left" alt="Skill" title="Cloud Computing" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/icloud.svg" />
 <img align="left" alt="Skill" title="cPanel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/cpanel.svg" />
 <img align="left" alt="Skill" title="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />
 <img align="left" alt="Skill" title="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/amazonaws.svg" />
@@ -50,7 +51,9 @@
 <img align="left" alt="Skill" title="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/next-dot-js.svg" />
 <img align="left" alt="Skill" title="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/typescript.svg" />
 
-<br/><br/>
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Connect with me:
 [<img align="left" alt="Zoeb Chhatriwala | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chhatriwala.com/)
