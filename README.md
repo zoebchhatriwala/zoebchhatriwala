@@ -9,8 +9,9 @@
 - 🧭 Navigating the ever-changing tech landscape with adaptability and curiosity as my compass.
 - 🥅 Future Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love playing video games and discussing technology, science, and philosophy.
-
+  
 ### Skills:
+
 <img align="left" alt="Skill" title="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 <img align="left" alt="Skill" title="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 <img align="left" alt="Skill" title="CSharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
@@ -49,16 +50,12 @@
 <img align="left" alt="Skill" title="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/amazonaws.svg" />
 <img align="left" alt="Skill" title="NestJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/nestjs.svg" />
 <img align="left" alt="Skill" title="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/next-dot-js.svg" />
-<img align="left" alt="Skill" title="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/typescript.svg" />
-
-&nbsp;
-&nbsp;
-&nbsp;
-
+<img alt="Skill" title="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/typescript.svg" />
 
 ### Connect with me:
-[<img align="left" alt="Zoeb Chhatriwala | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chhatriwala.com/)
-[<img align="left" alt="Zoeb Chhatriwala | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](http://facebook.com/zoebchhatriwala/)
-[<img align="left" alt="Zoeb Chhatriwala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zoebchhatriwala/)
-[<img align="left" alt="Zoeb Chhatriwala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zoebchhatriwala/)
-[<img align="left" alt="Zoeb Chhatriwala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/zoebchhatriwala/)
+
+[<img align="left" alt="Zoeb Chhatriwala | Website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chhatriwala.com/)
+[<img align="left" alt="Zoeb Chhatriwala | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](http://facebook.com/zoebchhatriwala/)
+[<img align="left" alt="Zoeb Chhatriwala | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zoebchhatriwala/)
+[<img align="left" alt="Zoeb Chhatriwala | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zoebchhatriwala/)
+[<img alt="Zoeb Chhatriwala | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/zoebchhatriwala/)
