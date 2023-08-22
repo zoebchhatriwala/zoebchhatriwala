@@ -48,6 +48,7 @@
 <img align="left" alt="Skill" title="cPanel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/cpanel.svg" />
 <img align="left" alt="Skill" title="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />
 <img align="left" alt="Skill" title="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/amazonaws.svg" />
+<img align="left" alt="Skill" title="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/docker.svg" />
 <img align="left" alt="Skill" title="NestJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/nestjs.svg" />
 <img align="left" alt="Skill" title="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/next-dot-js.svg" />
 <img alt="Skill" title="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/typescript.svg" />
